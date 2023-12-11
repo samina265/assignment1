@@ -87,7 +87,9 @@ class StudentManagementSystem {
 }
 
 void main() {
-  StudentManagementSystem system = StudentManagementSystem();
-  system.main();
+  StudentManagementSystem studentmangement  = StudentManagementSystem();
+  studentmangement.main();
 }
+
+
 
